@@ -1,0 +1,25 @@
+.page-navigation {
+  display: flex;
+  justify-content: center;
+}
+
+.page-navigation__nav-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: #212121;
+  height: 48px;
+  width: 48px;
+  border-radius: 5px;
+  font-size: 24px;
+  margin-left: 8px;
+  margin-right: 8px;
+  background-color: #FAFAFA;
+  transition: 0.3s;
+}
+
+.page-navigation__nav-btn:hover {
+  background-color: rgba(2, 119, 189, 0.7);
+  color: #FAFAFA;
+}

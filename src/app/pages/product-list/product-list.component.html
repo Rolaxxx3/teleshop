@@ -1,0 +1,11 @@
+<div class="product-list">
+  <div class="product-list__cards-wrapper">
+    <app-product-card
+      *ngFor="let product of productList"
+      [product]="product"
+      [isRootUser]="isRootUser"
+    >
+    </app-product-card>
+  </div>
+  <app-page-navigation></app-page-navigation>
+</div>

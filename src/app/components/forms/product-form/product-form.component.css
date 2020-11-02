@@ -1,0 +1,43 @@
+.product-form {
+  background: transparent;
+  border: 0;
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  justify-content: space-between;
+}
+
+.product-form__buttons-wrapper {
+  display: flex;
+  align-self: flex-end;
+  justify-content: flex-end;
+  width: 224px;
+}
+
+.product-form__btn-delete {
+  height: 48px;
+  width: 104px;
+  background-color: transparent;
+  border: 0;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #EF5350;
+  transition: 0.2s;
+  margin-right: 16px;
+}
+.product-form__btn-delete:hover {
+  background-color: #FFCDD2;
+}
+.product-form__btn-create {
+  height: 48px;
+  width: 104px;
+  border: 0;
+  background-color: #607D8B;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #FAFAFA;
+  transition: 0.2s;
+}
+.product-form__btn-create:hover {
+  background-color: #546E7A;
+}

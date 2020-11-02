@@ -1,0 +1,12 @@
+<select
+  [value]="valueDefault"
+  class="select-field"
+  (change)="onChange($event)"
+>
+  <option
+    *ngFor="let item of data"
+    value={{item.id}}
+  >
+    {{item.value}}
+  </option>
+</select>

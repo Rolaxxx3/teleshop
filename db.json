@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "status": 3,
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 64GB/3GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 2,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 3,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 4,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 5,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 6,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 7,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 8,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 9,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 10,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 11,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 12,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 13,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 14,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 15,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 16,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 17,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 18,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 19,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 20,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 21,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 22,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 23,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 24,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 25,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 26,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 27,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Xiaomi Redmi Note 8 Pro 128GB/6GB",
+      "price": 5899,
+      "description": "Xiaomi Redmi Note 8 – новая модель в линейке сбалансированных устройств среднего ценового сегмента",
+      "id": 28,
+      "photo": "https://s.ek.ua/jpg/1644502.jpg"
+    },
+    {
+      "name": "Apple iPhone Xr",
+      "price": 14599,
+      "description": "IPhone XR оснащен инновационным Liquid Retina-экраном диагональю 6,1 дюйма и разрешением 1732 × 828 пикселей. Новый экран является самым передовым ЖК-дисплеем среди смартфонов. Особый алгоритм подсветки позволяет экрану «растягиваться» по углам. Такая технология и усовершенствованная функция True Tone передает истинный цвет изображения по всей площади матрицы.",
+      "photo": "https://s.ek.ua/jpg/1431037.jpg",
+      "id": 29
+    }
+  ]
+}

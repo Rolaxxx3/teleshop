@@ -1,0 +1,26 @@
+<div class="product-about">
+  <div class="product-about__header">
+    <a
+      class="product-about__link-back"
+      [routerLink]="['/product-list']"
+    >
+      <img
+        loading="lazy"
+        class="product-about__img-back"
+        src="../../../assets/img/arrow-back.svg"
+        alt="arrow-back"
+      />
+    </a>
+    <h3>About</h3>
+  </div>
+  <div class="product-about__content-wrapper">
+    <h4>{{product.name}}</h4>
+    <img
+      loading="lazy"
+      class="product-about__product-img"
+      [src]="product.photo"
+      alt="..."
+    />
+    <span class="product-about__description">{{product.description}}</span>
+  </div>
+</div>

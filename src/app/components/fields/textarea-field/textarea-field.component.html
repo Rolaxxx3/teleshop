@@ -1,0 +1,16 @@
+<div class="text-field">
+  <span
+    *ngIf="label"
+    class="input-field__label"
+  >
+    {{label}}
+  </span>
+
+  <textarea
+    class="text-field__input"
+    [rows]="rows"
+    [value]="value"
+    (change)="onChange($event)"
+  >
+  </textarea>
+</div>

@@ -1,0 +1,19 @@
+<div class="app">
+  <h1>Teleshop</h1>
+  <div class="app__header-wrapper">
+    <app-select-field
+      [data]="USER_TYPES"
+      [valueDefault]="user.status"
+      (changeValue)="changeUserRole($event)"
+    >
+    </app-select-field>
+    <a
+      *ngIf="user.status === USER_TYPES[1].id"
+      class="app__btn-primary"
+      [routerLink]="['/new-product']"
+    >
+      + New
+  </a>
+  </div>
+  <router-outlet></router-outlet>
+</div>

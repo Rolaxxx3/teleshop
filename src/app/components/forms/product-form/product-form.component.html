@@ -1,0 +1,54 @@
+<form
+  class="product-form"
+  (submit)="submit($event)"
+>
+  <app-input-field
+    type='text'
+    min='5'
+    max='30'
+    label='Product name'
+    [value]='form.name || ""'
+    (changeValue)="onChange('name', $event)"
+  >
+  </app-input-field>
+  <app-input-field
+    type='number'
+    label='Product price'
+    [value]='form.price || 0'
+    (changeValue)="onChange('price', $event)"
+  >
+  </app-input-field>
+  <app-input-field
+    type='text'
+    min='5'
+    max='30'
+    label='Product image link'
+    [value]='form.photo || ""'
+    (changeValue)="onChange('photo', $event)"
+  >
+  </app-input-field>
+  <app-textarea-field
+    label="Product description"
+    [rows]="12"
+    [value]='form.description || ""'
+    (changeValue)="onChange('description', $event)"
+  >
+  </app-textarea-field>
+  <div class="product-form__buttons-wrapper">
+    <button
+      class="product-form__btn-delete"
+      *ngIf="type === 'edit'"
+      type="submit"
+      (click)="setSubmitType('delete')"
+    >
+      Delete
+    </button>
+    <button
+      class="product-form__btn-create"
+      type="submit"
+      (click)="setSubmitType(type === 'edit' ? 'update' : 'save')"
+    >
+      Submit
+    </button>
+  </div>
+</form>

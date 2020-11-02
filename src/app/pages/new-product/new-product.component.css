@@ -1,0 +1,27 @@
+.new-product {
+  width: 80%;
+  background-color: #EEEEEE;
+  border-radius: 5px;
+  border: 1px solid #BDBDBD;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 5% 10%;
+}
+
+.new-product__link-back {
+  display: block;
+  border: 0;
+  height: 48px;
+  width: 48px;
+  margin-right: 16px;
+  cursor: pointer;
+}
+
+.new-product__img-back {
+  height: 100%;
+  width: 100%;
+}
+
+.new-product__header {
+  display: flex;
+  align-items: center;
+}

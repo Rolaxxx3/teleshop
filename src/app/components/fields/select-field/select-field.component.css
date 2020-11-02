@@ -1,0 +1,9 @@
+.select-field {
+  height: 64px;
+  min-width: 256px;
+  border-radius: 5px;
+  border: 1px solid #BDBDBD;
+  font-size: 24px;
+  padding-left: 18px;
+  background-color: #FAFAFA;
+}

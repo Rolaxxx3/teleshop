@@ -1,0 +1,17 @@
+<div class="input-field">
+  <span
+    *ngIf="label"
+    class="input-field__label"
+  >
+    {{label}}
+  </span>
+  <input
+    class="input-field__input"
+    [type]="type || 'text'"
+    [min]="min || 0"
+    [max]="max || 9007199254740991"
+    [step]="type === 'number' ? '0.01' : ''"
+    [value]="value"
+    (change)="onChange($event)"
+  />
+</div>

@@ -1,0 +1,20 @@
+.text-field {
+  min-height: 256px;
+  width: 100%;
+}
+
+.text-field__input {
+  height: 100%;
+  width: 100%;
+  border: 1px solid #BDBDBD;
+  border-radius: 5px;
+  resize: none;
+  outline: 0;
+  font-size: 24px;
+  background-color: #FAFAFA;
+}
+
+.input-field__label {
+  font-size: 16px;
+  line-height: 32px;
+}

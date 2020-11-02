@@ -1,0 +1,28 @@
+<div class="product-card">
+  <div class="product-card__content-wrapper">
+    <img
+      class="product-card__img"
+      loading="lazy"
+      alt="..."
+      src={{product.photo}}
+    />
+    <h4>{{product.name}}</h4>
+  </div>
+  <div class="product-card__btn-wrapper">
+    <a
+      class="product-card__btn-secondary"
+      *ngIf="isRootUser"
+      [routerLink]="['/edit-product']"
+      [queryParams]="{id: product.id}"
+    >
+      Edit
+    </a>
+    <button
+      class="product-card__btn-primary"
+      [routerLink]="['/product-about']"
+      [queryParams]="{id: product.id}"
+    >
+      More
+    </button>
+  </div>
+</div>
